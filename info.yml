@@ -1,0 +1,19 @@
+--- 
+project: 
+  description: "3-Stage ring oscillator centered at 2.87 GHz"
+  foundry: "SkyWater"
+  git_url: "hhttps://github.com/adithyasunil26/Ring_oscillator_sky130.git"
+  organization: ""
+  organization_url: ""
+  owner: "Adithya Sunil"
+  process: "SKY130"
+  project_name: "Ring Oscillator"
+  project_id: "00000000"
+  tags: 
+    - "Open MPW"
+    - "Test Harness"
+  category: "Test Harness"
+  top_level_netlist: "caravel/spi/lvs/caravan.spice"
+  user_level_netlist: "netgen/user_analog_project_wrapper.spice"
+  version: "1.00"
+  cover_image: "docs/source/_static/caravel_harness.png"
